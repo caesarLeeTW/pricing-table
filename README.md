@@ -1,2 +1,2 @@
 # pricing-table
-## A simple RWD demo page.
+A simple RWD demo page.
